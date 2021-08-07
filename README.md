@@ -7,14 +7,13 @@
 # Fernanda Seraphim Camarinha
 <sub>*Finance</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+As a experienced Consultant I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying my background to solve real problems for companies, I developed a critical thinking and problem-solving skills.
 
 My credentials include two degress Law (PUC-SP) and Economics (FEA-USP)
 **Background in:** Python, Machine Learning, Finance.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/fernanda-seraphim-camarinha/)
-* [Medium](https://add)
 
 
 ## Projetos:
